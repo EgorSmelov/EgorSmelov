@@ -14,6 +14,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/egor-smelov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="egor-smelov" height="30" width="40" /></a>
 <a href="https://instagram.com/smelov_egor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smelov_egor" height="30" width="40" /></a>
+<a href="https://t.me/smelov_egor" target="blank"><img align="center" src="https://www.svgrepo.com/show/3109/telegram.svg" alt="smelov_egor" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
